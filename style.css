@@ -1,3 +1,52 @@
 body {
   background-color: aliceblue;
 }
+
+.tg  {
+  border-collapse:collapse;border-spacing:0;
+}
+
+
+.tg td {
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+  background-color: white;
+}
+
+.tg .tg-0lax {
+  text-align:left;
+  font-size: .8em;
+  vertical-align:top
+}
+
+thead:nth-child(2) {
+  background-color: red;
+  border: 2px solid black;
+}
+
+thead th {
+  border: 2px solid black;
+}
+
+body {
+  background-image: url(./img/crowd.jpg);
+}
+
+h1 {
+  color: white;
+}
+
+caption {
+  caption-side: bottom;
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
